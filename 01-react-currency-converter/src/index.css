@@ -10,3 +10,17 @@ body {
   margin: 2rem;
   background-color: ghostwhite;
 }
+
+.currency-container {
+  margin-top: 2rem;
+}
+input[type="text"] {
+  margin-left: 1rem;
+}
+select {
+  margin-left: 1rem;
+}
+
+p {
+  margin-top: 1.5rem;
+}
